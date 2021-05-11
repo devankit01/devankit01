@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate.
 - 🥅 2021 Goals: Learn, Build and Share.
-- ⚡ Fun fact: I love to play guitar
+- ⚡ Fun fact: I love to play guitar.
 
 <br />
 
