@@ -12,22 +12,7 @@
 
 <br />
 
-<h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ankit Patel</h1>
-<h3 align="center">A passionate full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> from India. Who Loves to utilize his skills and knowledge to solve some real world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imavipatel&label=Profile%20views&color=0e75b6&style=flat" alt="imavipatel" /> </p>
-
--  🔭 I’m currently developing a mobile application in [React Native](https://reactnative.dev/) independently.
-
--  🌱 I’m currently learning and growing my skillset in data structures and algorithms and trying to improve my expertise in **Python** and **React Js.**
-
--  🤝 I’m looking to collaborate on **Javascript**, **React Native** or **Python** based projects.
-
--  💬 Ask me about anything **related to life.**
-
--  📫 Join the [React Native Python dev](https://t.me/reactnativepythondev) group for discussing about **Python** and **React Native**. This channel is all about **Python** and **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
-
--  ⚡ Fun fact => After six month of my graduation i was able to write my first **Hello world!** program successfully.
 
 ### 🛠 &nbsp;Tech Stack
 
