@@ -21,7 +21,6 @@ Technologies that I've been learning and I've picked up along with my programmin
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-05122A?&logo=python)](https://www.python.org/)&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java&logoColor=007396)](https://www.java.com/en/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=ddc508)](https://www.javascript.com/)
 
 #### 🌐 Frontend <br />
@@ -39,6 +38,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 [![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)](https://www.postgresql.org/)&nbsp;
