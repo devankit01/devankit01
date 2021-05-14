@@ -1,7 +1,5 @@
 ### Hi there, I'm Ankit Gupta 
 
-
-
 ## I'm a Developer !!
 
 - 🔭 Founder https://brighterbees.com/
@@ -11,8 +9,6 @@
 - ⚡ Fun fact: I love to play guitar.
 
 <br />
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
