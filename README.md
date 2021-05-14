@@ -57,13 +57,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-# 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-<!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest YouTube Videos
 
@@ -86,14 +80,10 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 </details>
 
-<div align="center">
 
-<i align="center">Random dev joke for you!</i>
-</br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=false&theme=default)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
-<br/>
+
+
 
 ## 🤝🏻 &nbsp;Connect with Me
 
