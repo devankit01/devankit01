@@ -42,6 +42,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 [![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)](https://www.postgresql.org/)&nbsp;
+[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=0273B7)](https://www.postgresql.org/)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 
 #### 🛠 OS & IDE & Tools <br />
