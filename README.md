@@ -73,14 +73,12 @@ Technologies that I've been learning and I've picked up along with my programmin
 - [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
 <!-- YOUTUBE:END -->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="imavipatel" /></a></p>
 
 <details>
 <summary>📊 Github Stats</summary>
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imavipatel&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="imavipatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devankit01&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="devankit01" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="imavipatel"/></p>
 
