@@ -2,7 +2,7 @@
 
 ## I'm a Developer !!
 
-- 🔭 Founder https://brighterbees.com/
+- 🔭 Founder [BrighterBees](brighterbees.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate.
 - 🥅 2021 Goals: Learn, Build and Share.
@@ -58,9 +58,8 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
+- [Hosting your website online for free 2021?](https://youtu.be/Akvscz1gpv8)
+
 <!-- YOUTUBE:END -->
 
 
