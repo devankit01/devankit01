@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Learn, Build and Share.
 - ⚡ Fun fact: I love to play guitar.
 
-<br />
+
 
 ### 🛠 &nbsp;Tech Stack
 
