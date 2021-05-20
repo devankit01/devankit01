@@ -59,6 +59,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [Hosting your website online for free 2021?](https://youtu.be/Akvscz1gpv8)
+- [How to Get Paid Internship on Internshala 2021?](https://youtu.be/Akvscz1gpv8)
 
 <!-- YOUTUBE:END -->
 
