@@ -2,7 +2,7 @@
 
 ## I'm a Developer !!
 
-- 🔭 Addict to Making Solutions.
+- 🔭 Addicted to Making Solutions.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate.
 - 🥅 2022 Goals: Learn, Build and Share.
