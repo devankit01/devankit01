@@ -2,10 +2,10 @@
 
 ## I'm a Developer !!
 
-- 🔭 Founder [BrighterBees](https://brighterbees.org/)
+- 🔭 Addict to Making Solutions.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate.
-- 🥅 2021 Goals: Learn, Build and Share.
+- 🥅 2022 Goals: Learn, Build and Share.
 - ⚡ Fun fact: I love to play guitar.
 
 
