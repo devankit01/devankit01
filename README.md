@@ -3,7 +3,7 @@
 ## I'm a Developer !!
 
 - 🔭 Addicted to Making Solutions.
-- 🌱 I’m currently AWS.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate.
 - 🥅 2022 Goals: Learn, Build and Share.
 - ⚡  I love to play guitar.
