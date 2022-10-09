@@ -22,8 +22,6 @@ Technologies that I've been learning and I've picked up along with my programmin
 #### 🌐 Frontend <br />
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-[![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)](https://reactnative.dev/)&nbsp;
-[![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo&logoColor=FFF)](https://expo.io/)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -34,24 +32,19 @@ Technologies that I've been learning and I've picked up along with my programmin
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Expressjs](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
 [![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)](https://www.postgresql.org/)&nbsp;
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=0273B7)](https://www.postgresql.org/)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 
 #### 🛠 OS & IDE & Tools <br />
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
 
 
 
