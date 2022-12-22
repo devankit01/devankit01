@@ -76,6 +76,6 @@ Technologies that I've been learning and I've picked up along with my programmin
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/ankit-gupta-4b4848196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/dev_ankit____/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/ankit.codes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100013287544455" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.youtube.com/channel/UCqjEXo0IH7hw54VYE6w-92Q"><img src="https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white"/></a>
