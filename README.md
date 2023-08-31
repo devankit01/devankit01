@@ -62,7 +62,6 @@ Technologies that I've been learning and I've picked up along with my programmin
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devankit01&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="devankit01" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devankit01&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devankit01"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devankit01&theme=highcontrast" alt="devankit01" /></p>
 
