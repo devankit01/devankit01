@@ -5,7 +5,7 @@
 - 🔭 Addicted to Making Solutions.
 - 🌱 AWS : Python : DS
 - 👯 I’m looking to collaborate.
-- 🥅 2023 Goals: Learn, Build and Share.
+- 🥅 2024 Goals: Learn, Build and Share.
 - ⚡  I love to play guitar.
 
 
